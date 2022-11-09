@@ -9,3 +9,6 @@ Using C language
 
 # Display records
 <img src="EMS_3.png"/>
+
+# Search and Detailed View
+<img src="EMS_3.png"/>
