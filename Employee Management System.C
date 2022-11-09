@@ -1,5 +1,5 @@
-/* Q10. Write a program using File handling to create a payroll system for n no. of employees
-        of an organization with the following information read from keyboard:
+/* Pogram using File handling to create a payroll system for n no. of employees
+   of an organization with the following information read from keyboard:
             Employee Code
             Employee Name
             Designation
