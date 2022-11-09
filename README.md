@@ -11,4 +11,4 @@ Using C language
 <img src="EMS_3.png"/>
 
 # Search and Detailed View
-<img src="EMS_3.png"/>
+<img src="EMS_4.png"/>
